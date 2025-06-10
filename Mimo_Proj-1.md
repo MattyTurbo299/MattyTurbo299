@@ -5,12 +5,12 @@
 This is my first project with Mimo.
 
 Mimo has shown me how to use the following:
-- Variables
-- True and False (Booleans)
-- Formatting Strings
-- Comparing Numbers and Strings
-- Discovering Types and Comparisons
-- Learning how to input / communicate with the bot
+- Variables;
+- True and False (Booleans);
+- Formatting Strings;
+- Comparing Numbers and Strings;
+- Discovering Types and Comparisons;
+- Learning how to allow the user to input and produce responces, producing a conversation.
 
 ## How this works
 
