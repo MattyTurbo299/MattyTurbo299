@@ -20,4 +20,4 @@ to something bigger like a website and applications.
 - Mimo Conversation (Project 1) ✔️
 
 ## Table of Contents
-- [What I learned](#what-i-learned)
+- [Mimo Conversation (Project 1)](https://github.com/MattyTurbo299/MattyTurbo299/blob/main/Mimo_Proj-1.md)
