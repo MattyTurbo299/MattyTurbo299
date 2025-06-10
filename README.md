@@ -8,8 +8,7 @@ I began using the Mimo app and found it very intuative and I was retaining the i
 With this in mind I have decided to bite the bullet and complete the full course.
 This repository will document my journey with Mimo and the projects it helps me to create.
 
-I am hoping to achieve much more after building on my foundations; with the idea of creating more smaller projects from a calculator and to do lists,
-to something bigger like a website and applications.
+I am hoping to achieve much more after building on my foundations with Mimo. I like the idea of creating more smaller projects first such as a calculator or a to do lists, and then something bigger like a website or applications.
 
 ## Current Projects
 
