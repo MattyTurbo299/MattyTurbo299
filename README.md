@@ -1,6 +1,6 @@
 Hello, I have created this github account to document my coding journey.
 
-I have been introduced to coding this year but want to learn more,
+I have been introduced to coding this year but the courses were lacking and Iwant to learn more.
 I began using the Mimo app and found it very intuative and I was retaining the information which previously had went over my head.
 
 With this in mind I have decided to bite th ebullet and complete the full course.
