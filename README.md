@@ -10,7 +10,7 @@ This repository will document my journey with Mimo and the projects it helps me 
 
 I am hoping to achieve much more after building on my foundations with Mimo. I like the idea of creating more smaller projects first such as a calculator or a to do lists, and then something bigger like a website or applications.
 
-## Current Projects
+## Current Projects (Work in Progress)
 
 - Mimo (Project 2) ⚒️
 
