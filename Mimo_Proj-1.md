@@ -10,7 +10,7 @@ Mimo has shown me how to use the following:
 - Formatting Strings;
 - Comparing Numbers and Strings;
 - Discovering Types and Comparisons;
-- Learning how to allow the user to input and produce responses, producing a conversation.
+- Learning how to allow the user to input and produce responses, creating a flowing conversation.
 
 ## How this works
 
