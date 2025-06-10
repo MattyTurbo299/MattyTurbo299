@@ -1,4 +1,4 @@
-## Introduction 
+# Introduction 
 
 Hello, I have created this github account to document my coding journey.
 
@@ -9,8 +9,12 @@ With this in mind I have decided to bite the bullet and complete the full course
 This repository will document my journey with Mimo and the projects it helps me to create.
 
 I am hoping to achieve much more after building on my foundaitons with the idea of creating more smaller projects from a calculator / to do lists,
-to something bigger like a website and applicaitons.
+to something bigger like a website and applications.
 
-More about me:
-- 🔭 I’m currently working on the Mimo course.
-- 🌱 I’m currently learning Python with hopes to learn other languages.
+## Current Projects
+
+Mimo (Project 2) ⚒️
+
+## Completed Projects
+
+Mimo Conversation (Project 1) ✔️
