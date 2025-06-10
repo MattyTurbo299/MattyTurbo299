@@ -1,4 +1,5 @@
 ##Introduction 
+
 Hello, I have created this github account to document my coding journey.
 
 I have been introduced to coding this year but the courses were lacking and I want to learn more.
