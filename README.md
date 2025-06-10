@@ -13,8 +13,8 @@ to something bigger like a website and applications.
 
 ## Current Projects
 
-Mimo (Project 2) ⚒️
+- Mimo (Project 2) ⚒️
 
 ## Completed Projects
 
-Mimo Conversation (Project 1) ✔️
+- Mimo Conversation (Project 1) ✔️
