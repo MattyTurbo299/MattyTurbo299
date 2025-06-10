@@ -18,3 +18,6 @@ to something bigger like a website and applications.
 ## Completed Projects
 
 - Mimo Conversation (Project 1) ✔️
+
+## Table of Contents
+- [Mimo Convesation (Project 1)](#how-to-create-your-profile)
