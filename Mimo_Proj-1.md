@@ -24,7 +24,7 @@ It then compares the age of the bot and the user, referencing the difference bet
 
 ## Project Screenshot
 
-<kbd><img width="956" alt="Mimo_Project_1" src="https://github.com/user-attachments/assets/5ee47327-bded-4116-b2ec-e7bad4c4bba5" />
+<kbd><img width="944" alt="Mimo_Project_1" src="https://github.com/user-attachments/assets/bd7672a9-ddec-45b1-975a-885120a5c45f" />
 
 ## Link back to Main Page
 - [Main Page](https://github.com/MattyTurbo299) 🔗
