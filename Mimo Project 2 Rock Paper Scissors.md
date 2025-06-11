@@ -1,9 +1,9 @@
 # Rock Paper Scissors Project
 
 ## What I learned 
-This si my second project with Mimo
+This is my second project with Mimo.
 
-It has helped me to learnt he following:
+It has helped me to learn the following:
 - Flow Control
 - Making Decisions
 - Using Conditions / Conditional Statements
