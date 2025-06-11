@@ -21,4 +21,4 @@ I am hoping to achieve much more after building on my foundations with Mimo. I l
 
 ## Table of Contents
 - [Mimo Conversation (Project 1)](https://github.com/MattyTurbo299/MattyTurbo299/blob/main/Mimo_Proj-1.md) 🔗
-- [Mimo Rock Paper Scissors (Project 2)]((https://github.com/MattyTurbo299/MattyTurbo299/blob/main/Mimo%20Project%202%20Rock%20Paper%20Scissors.md)) 🔗
+- [Mimo Rock Paper Scissors (Project 2)](https://github.com/MattyTurbo299/MattyTurbo299/blob/main/Mimo%20Project%202%20Rock%20Paper%20Scissors.md) 🔗
