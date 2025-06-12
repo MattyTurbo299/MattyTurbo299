@@ -28,3 +28,11 @@ Next we have the meat of the program, the if statement. It is here that I define
 For choice 1 we allow the user to add to the list. The computer asks the user to enter the task by assigning an input to new_task. For the task to be added we use an append which adds the input to the list alongside confirmation from the pc explaining it has been added successfully.
 Choice 2 is an elif statement which allows the user to remove a task. Here we define if the list is greater than 0 it is allowed to remove an item from the list. This uses the pop function which removes the last itemfrom the list.
 Finally choice 3 quits the program utilising a "quitting" notificaiton and then break to leave the program.
+
+## Screenshots of my code
+<img width="955" alt="todo3" src="https://github.com/user-attachments/assets/e19c71dc-adb2-46cd-9afb-abb40942a847" />
+<img width="958" alt="todo4" src="https://github.com/user-attachments/assets/d35007ba-6882-4d74-b19e-b1964464084f" />
+
+### Back to Main Page
+
+
