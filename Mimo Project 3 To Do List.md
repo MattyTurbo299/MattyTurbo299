@@ -30,9 +30,10 @@ Choice 2 is an elif statement which allows the user to remove a task. Here we de
 Finally choice 3 quits the program utilising a "quitting" notificaiton and then break to leave the program.
 
 ## Screenshots of my code
-<img width="955" alt="todo3" src="https://github.com/user-attachments/assets/e19c71dc-adb2-46cd-9afb-abb40942a847" />
-<img width="958" alt="todo4" src="https://github.com/user-attachments/assets/d35007ba-6882-4d74-b19e-b1964464084f" />
+<kbd><img width="955" alt="todo3" src="https://github.com/user-attachments/assets/e19c71dc-adb2-46cd-9afb-abb40942a847" />
+<kbd><img width="958" alt="todo4" src="https://github.com/user-attachments/assets/d35007ba-6882-4d74-b19e-b1964464084f" />
 
-### Back to Main Page
+### Link back to Main Page
+- [Main Page](https://github.com/MattyTurbo299) 🔗
 
 
