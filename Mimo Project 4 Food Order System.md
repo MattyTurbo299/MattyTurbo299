@@ -1,32 +1,30 @@
-# To Do List
+# Food Order System
 
 ## What I learned 
-This is my third project with Mimo.
+This is my fourth project with Mimo.
 
 It has helped me to learn the following:
-- Grouping data in lists, changing that data within the list and updating the data in the list
-- Looping over lists and deciding with lists
-- Finding extreme data
-- Sorting data
-- Summing data
-- Joining lists
-- Counting Elements
+- How to reuse code with functions
+- Creating Parameters
+- Returning Values
+- Using Multiples Parameters
+- Functions and Variable Scope
+- Deciding with Functions
+- Functions with Lists
+- Functions with Loops
 
 ## How this works
-First the to do list is defined with todo_list = []
-This allows for a list to be created, and added to later.
+To begin we must create some menu items. We have two types of menu items. One is Italian and the other Inidan within these we create lists of the food the under these two menu's.
 
-We start with a while loop as some of the functions will require this.
-The program begins by checking the to do list for tasks and if it is empty it conveys that it is empty to the user.
+Now we define find mealand return the name if the name is in the menu list. Next we define the meal selection returning from italian food.
+Below we define available meals using if elif and else statements for available italian meanl and available indian meals. Else will print invalid food type.
+We next define a summary of the order saying you have ordered x or meal not found. 
 
-Next the else statement runs the objective here is to get the program to display the number of the task alongside the task name. Therefore we must define the index as 1 and use a for / in statement on the task and to do list. Then an f string is used to correctly define where the index and task must be shown and once completed it addsone to the next index and task.
-
-Now we come to the options, wherby we show 3 options in total, 1. Add Task, 2. Remove Task, and 3. Quit.
-The choice must then be givn to the user. It is defined as choice = input("Enter your choice (1, 2,or 3): ")
-Next we have the meat of the program, the if statement. It is here that I define what happens when the user presses 1, 2, or 3.
-
-For choice 1 we allow the user to add to the list. The computer asks the user to enter the task by assigning an input to new_task. For the task to be added we use an append which adds the input to the list alongside confirmation from the pc explaining it has been added successfully.
-Choice 2 is an elif statement which allows the user to remove a task. Here we define if the list is greater than 0 it is allowed to remove an item from the list. This uses the pop function which removes the last itemfrom the list.
-Finally choice 3 quits the program utilising a "quitting" notificaiton and then break to leave the program.
+Now shows the computers interaction with the user, we first print a welcome message and ask the user to input their choice of menu and then their choice of meal and how many meals they would like.
 
 ## Screenshots of my code
+<kbd>![Food order system 1](https://github.com/user-attachments/assets/a69e3cf0-25f9-467f-88c5-3fbfc88a411a)
+<kbd>![food order system 2](https://github.com/user-attachments/assets/ea7e34a3-65d2-4552-85f9-b845e10fa244)
+
+### Link back to Main Page
+- [Main Page](https://github.com/MattyTurbo299) 🔗
