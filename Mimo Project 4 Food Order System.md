@@ -20,7 +20,7 @@ Now we define find mealand return the name if the name is in the menu list. Next
 Below we define available meals using if elif and else statements for available italian meanl and available indian meals. Else will print invalid food type.
 We next define a summary of the order saying you have ordered x or meal not found. 
 
-Now shows the computers interaction with the user, we first print a welcome message and ask the user to input their choice of menu and then their choice of meal and how many meals they would like.
+Now we write the computers interaction with the user, we first print a welcome message and ask the user to input their choice of menu and then their choice of meal and how many meals they would like. The result of this is made into a variable and printed.
 
 ## Screenshots of my code
 <kbd>![Food order system 1](https://github.com/user-attachments/assets/a69e3cf0-25f9-467f-88c5-3fbfc88a411a)
